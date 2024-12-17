@@ -1,4 +1,13 @@
 #!/bin/bash
+#-----------------------------------------------------------------------------------------
+
+#AUTHOR : NAVEEN BHARATHI S
+#TITLE : AWS EC2
+#DESCRIPTION : This script helps the user to easily fetch the instance details in AWS 
+#DATE : 17/12/2024
+
+#-----------------------------------------------------------------------------------------
+
 
 # Function to list instances with their public IPs, names, and IDs
 list_instances() {
